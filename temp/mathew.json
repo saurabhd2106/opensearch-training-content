@@ -1,0 +1,9 @@
+{
+    "name" : "Mathew",
+    "age" : 22,
+    "location" : {
+        "lat" : 11.454344,
+        "long" : 13.456
+    },
+    "email": "mathew@gmail.com"
+}

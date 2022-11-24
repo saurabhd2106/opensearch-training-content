@@ -1,0 +1,6 @@
+127.0.0.1 - rumani [9/Feb/2017:10:34:12 -0700] GET /sample-image.png HTTP/2 200 1479
+127.0.0.1 - saurabh [9/Feb/2017:10:34:12 -0700] GET /sample-image.png HTTP/2 200 1479
+127.0.0.1 - pooja [9/Feb/2017:10:34:12 -0700] GET /sample-image.png HTTP/2 200 1479
+
+
+127.0.0.1 - - [11/Nov/2022:00:01:45 -0800] "GET /xampp/status.php HTTP/1.1" 200 3891 "http://cadenza/xampp/navi.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0"

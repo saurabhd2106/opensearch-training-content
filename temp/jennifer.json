@@ -1,0 +1,11 @@
+{
+    "name" : "jennifer",
+    "age" : 38,
+    "joined_date": "2019-01-11",
+    "location": {
+        "lat": 12.971599,
+        "long": 77.594566
+    },
+    "interested_sports": ["Chess", "Football"]
+    
+}
